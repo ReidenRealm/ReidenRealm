@@ -10,11 +10,14 @@
 - **Backend:** SpringBoot, Java  
 - **Databases:** MySQL, SQL, PostgreSQL 
 
+📊 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reidenrealm&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reidenrealm&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reidenrealm&layout=compact&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reidenrealm&theme=radical)
 
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/geraldfernan0)  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=src/Resources/Images/G.png)](https://geraldfernando.com)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/reidenrealm)  
-
-
 
 🛠 **Projects & Contributions:**  
 - 🎟️ **[Ticket Booking System](https://github.com/ReidenRealm/Cw-Tickets-Booking-App.git)** - Real-time event ticketing with multithreading  
@@ -23,4 +26,7 @@
 - 📷 **Photography & Videography Portfolio**  
 
 🔥 **Fun Fact:** I love blending **tech & creativity**, whether it's in **coding, design, or photography!** 🎨📸  
+
+
+
 
