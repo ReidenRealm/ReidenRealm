@@ -17,8 +17,9 @@
 
 
 🛠 **Projects & Contributions:**  
-- 🎟️ **[Ticket Booking System](https://github.com/your-repo-link)** - Real-time event ticketing with multithreading  
-- 🌱 **[EverTea](https://github.com/your-repo-link)** - Helping people plant tea sustainably  
+- 🎟️ **[Ticket Booking System](https://github.com/ReidenRealm/Cw-Tickets-Booking-App.git)** - Real-time event ticketing with multithreading  
+- 🌱 **[EverTea](https://github.com/ReidenRealm/EverTea.git)** - Helping people plant tea sustainably
+- 🌱 **[EverTea WebSite](https://github.com/ReidenRealm/fluXcode.git)** - EverTea WebSite
 - 📷 **Photography & Videography Portfolio**  
 
 🔥 **Fun Fact:** I love blending **tech & creativity**, whether it's in **coding, design, or photography!** 🎨📸  
