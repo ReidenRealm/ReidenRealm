@@ -5,11 +5,11 @@
 - 🚀 EverTea 🌿 - A sustainable tea plantation app (SDG 12)  
 
 💼 **Skills & Tech Stack:**  
-- **Languages:** Java, JavaScript, TypeScript, Python  
-- **Frontend:** React, Angular, HTML, CSS, Tailwind  
-- **Backend:** Spring Boot, Node.js, Express.js  
-- **Databases:** MySQL, MongoDB, PostgreSQL  
-- **DevOps & Tools:** Docker, Jenkins, Git, CI/CD  
+- **Languages:** English, Sinhala 
+- **Frontend:** React, ReactNative, HTML, CSS, Tailwind
+- **Backend:** SpringBoot, Java  
+- **Databases:** MySQL, SQL, PostgreSQL 
+
 
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://geraldfernando.com)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/reidenrealm)  
