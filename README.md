@@ -12,7 +12,7 @@
 
 
 📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/geraldfernan0)  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://geraldfernando.com)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/reidenrealm)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/geraldfernan0)  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=src/Resources/Images/G.png)](https://geraldfernando.com)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/reidenrealm)  
 
 
 
