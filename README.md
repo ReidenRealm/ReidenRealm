@@ -17,6 +17,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reidenrealm&layout=compact&theme=tokyonight&bg_color=000000&title_color=04D939&text_color=FF0000)
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reidenrealm&bg_color=000000&color=04D939&line=FF0000&point=04D939)
 
+
 📫 **Connect with me:**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/geraldfernan0)  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=src/Resources/Images/G.png)](https://geraldfernando.com)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/reidenrealm)  
