@@ -5,7 +5,7 @@
 - 🚀 EverTea 🌿 - A sustainable tea plantation app (SDG 12)  
 
 💼 **Skills & Tech Stack:**  
-- **Languages:** English, Sinhala 
+- **Languages:** React, Java, Python 
 - **Frontend:** React, ReactNative, HTML, CSS, Tailwind
 - **Backend:** SpringBoot, Java  
 - **Databases:** MySQL, SQL, PostgreSQL 
