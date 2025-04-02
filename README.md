@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerald Fernando</h1>
-<h3 align="center">Full-Stack Developer | Web Designer | Software Engineer</h3>
+<h3 align="center">Full-Stack Developer | Web Designer | Software Engineer | Interested in Cybersecurity</h3>
 
 🌱 **Currently working on:**  
 - 🚀 EverTea 🌿 - A sustainable tea plantation app (SDG 12)  
