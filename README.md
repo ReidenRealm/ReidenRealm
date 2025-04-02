@@ -3,8 +3,6 @@
 
 🌱 **Currently working on:**  
 - 🚀 EverTea 🌿 - A sustainable tea plantation app (SDG 12)  
-- 🔥 Multithreading Ticket Booking App  
-- 🎨 Portfolio Website  
 
 💼 **Skills & Tech Stack:**  
 - **Languages:** Java, JavaScript, TypeScript, Python  
