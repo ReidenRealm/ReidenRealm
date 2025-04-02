@@ -12,10 +12,10 @@
 
 📊 **GitHub Stats:**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reidenrealm&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reidenrealm&show_icons=true&theme=tokyonight&bg_color=000000&title_color=04D939&text_color=FF0000)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reidenrealm&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reidenrealm&layout=compact&theme=tokyonight)
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reidenrealm&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reidenrealm&layout=compact&theme=tokyonight&bg_color=000000&title_color=04D939&text_color=FF0000)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reidenrealm&bg_color=000000&color=04D939&line=FF0000&point=04D939)
 
 📫 **Connect with me:**  
 
