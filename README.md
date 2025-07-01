@@ -6,8 +6,8 @@
 
 💼 **Skills & Tech Stack:**  
 - **Languages:** React, Java, Python 
-- **Frontend:** React, ReactNative, HTML, CSS, Tailwind
-- **Backend:** SpringBoot, Java  
+- **Frontend:** React, ReactNative, TypeScript, JavaScript, HTML, CSS
+- **Backend:** SpringBoot, Java 
 - **Databases:** MySQL, SQL, PostgreSQL 
 
 📊 **GitHub Stats:**  
