@@ -28,7 +28,7 @@
 - 🌱 **[EverTea WebSite](https://github.com/ReidenRealm/fluXcode.git)** - EverTea WebSite
 - 📷 **Photography & Videography Portfolio**  
 
-🔥 **Fun Fact:** I love blending **tech & creativity**, whether it's in **coding, design, or photography!** 🎨📸  
+
 
 
 
