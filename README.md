@@ -26,7 +26,7 @@
 - 🎟️ **[Ticket Booking System](https://github.com/ReidenRealm/Cw-Tickets-Booking-App.git)** - Real-time event ticketing with multithreading  
 - 🌱 **[EverTea](https://github.com/ReidenRealm/EverTea.git)** - Helping people plant tea sustainably
 - 🌱 **[EverTea WebSite](https://github.com/ReidenRealm/fluXcode.git)** - EverTea WebSite
-- 📷 **Photography & Videography Portfolio**  
+
 
 
 
