@@ -12,7 +12,7 @@
 
 📊 **GitHub Stats:**  
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=raidenrealm&bg_color=000000&color=04D939&line=FF0000&point=04D939)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reidenrealm&bg_color=000000&color=04D939&line=FF0000&point=04D939)
 
 
 📫 **Connect with me:**  
