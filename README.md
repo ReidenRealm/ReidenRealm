@@ -12,17 +12,17 @@
 
 📊 **GitHub Stats:**  
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=reidenrealm&bg_color=000000&color=04D939&line=FF0000&point=04D939)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=raidenrealm&bg_color=000000&color=04D939&line=FF0000&point=04D939)
 
 
 📫 **Connect with me:**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/geraldfernan0)  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=src/Resources/Images/G.png)](https://geraldfernando.com)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/reidenrealm)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/geraldfernan0)  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=src/Resources/Images/G.png)](https://geraldfernando.com)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/raidenrealm)  
 
 🛠 **Projects:**  
-- 🎟️ **[Ticket Booking System](https://github.com/ReidenRealm/Cw-Tickets-Booking-App.git)** - Real-time event ticketing with multithreading  
-- 🌱 **[EverTea](https://github.com/ReidenRealm/EverTea.git)** - Helping people plant tea sustainably
-- 🌱 **[EverTea WebSite](https://github.com/ReidenRealm/fluXcode.git)** - EverTea WebSite
+- 🎟️ **[Ticket Booking System](https://github.com/RaidenRealm/Cw-Tickets-Booking-App.git)** - Real-time event ticketing with multithreading  
+- 🌱 **[EverTea](https://github.com/RaidenRealm/EverTea.git)** - Helping people plant tea sustainably
+- 🌱 **[EverTea WebSite](https://github.com/RaidenRealm/fluXcode.git)** - EverTea WebSite
 
 
 
